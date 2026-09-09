@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jarvis":
+  - firstname: ["S. A."]
+    url: https://www.birmingham.ac.uk/staff/profiles/eps/jarvis-stephen.aspx
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Hammond":
+  - firstname: ["S. D."]
+    url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?sdhammo
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Fahmy":
+  - firstname: ["S. A."]
+    url: https://cemse.kaust.edu.sa/accl/people/person/suhaib-fahmy
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Mudalige":
+  - firstname: ["G. R."]
+    url: https://warwick.ac.uk/fac/sci/dcs/people/gihan_mudalige/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Reguly":
+  - firstname: ["I. Z."]
+    url: https://itk.ppke.hu/en/about-our-faculty/our-lecturers-web-pages/reguly-istvan-zoltan-6870f
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Pennycook":
+  - firstname: ["S. J."]
+    url: https://orcid.org/0000-0003-0237-3823
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Bhalerao":
+  - firstname: ["A. H."]
+    url: https://warwick.ac.uk/fac/sci/dcs/people/abhir_bhalerao/
