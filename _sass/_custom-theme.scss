@@ -30,3 +30,11 @@
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 }
+
+// The about layout hard-codes its section headings in lower case
+// ("selected publications", "latest posts"). Title-case them here rather than
+// shadowing the gem-owned _layouts/about.liquid, which would drift on upgrade.
+.post h2 > a[href$="/publications/"],
+.post h2 > a[href$="/blog/"] {
+  text-transform: capitalize;
+}

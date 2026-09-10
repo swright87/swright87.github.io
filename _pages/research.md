@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 description:
 nav: true
+nav_order: 3
 display_categories: [work]
 horizontal: false
 ---
@@ -16,22 +17,41 @@ Broadly speaking, my research interests fall into three categories:
 
 #### Performance Analysis and Optimisation
 
-- Performance modelling of applications
-- Algorithmic optimisations of applications from the science and engineering domains
-- Evaluation of novel programming models and architectures
+- Design and development of low-overhead performance analysis tools
+- Novel performance models and modelling techniques
+- Evaluation of new programming models and novel hardware
+- Quantifying performance portability
 
 #### Parallel File Systems and I/O
 
-- Tracing and analysis of I/O in parallel applications
-- Optimisation of I/O operations on parallel file systems
+- Analysis of parallel file systems and bottlenecks
+- Development of portable file structures and data structures
 - Replication of sensitive I/O patterns in open environments
+- Optimisation of parallel file systems on many-user systems
 
 #### Energy-aware Computation
 
-- Analysis and modelling of energy consumption for parallel applications
-- Energy-aware optimisation of applications
+- Multi-objective optimisation metrics for energy-aware computing
+- Heuristic performance models for energy/power
+- Reconfigurable computing for computational science
 
-## PhD Opportunities
+A summary of the projects these interests have turned into is on the [projects page]({{ '/projects/' | relative_url }}).
+
+## Research Group
+
+### Current Ph.D. Students
+
+- [Matthew Smith](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=masmith) (started 2025) — performance, portability, and productivity of scientific computing applications; the [P3 Explorer]({{ '/projects/p3-analysis-library.html' | relative_url }}).
+- [Suryachandra Pasupuleti](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=spasup) (started 2024) — cache-aware energy modelling and the [Power-Optimised Software Envelope]({{ '/projects/pose.html' | relative_url }}).
+- [Zadok Storkey](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=zabelg) (started 2023) — [SYCL on FPGAs]({{ '/projects/fpga.html' | relative_url }}) for structured and unstructured scientific applications.
+- [Serdar Bulut](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=sbulut) (started 2022, part-time) — optimising checkpoint write performance to parallel file systems using LSM-trees.
+
+### Postdoctoral and Visiting Researchers
+
+- Dr. Andrew Naden — Postdoctoral Research Assistant, 2023–2025.
+- [Giulio Malenza](https://alpha.di.unito.it/giulio-malenza/) — Visiting Student, University of Turin, 2025.
+
+## Ph.D. Opportunities
 
 HPC has a vibrant research community, and if you'd like to be part of that community, there are Ph.D. opportunities available. Please get in touch to discuss potential projects.
 

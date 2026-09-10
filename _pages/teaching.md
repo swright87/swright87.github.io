@@ -29,7 +29,7 @@ While at Warwick I was the module lead and lecturer for the Programming for Comp
 
 - [CS118 - Programming for Computer Scientists](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs118/) (Undergraduate, Year 1)
 
-During my Ph.D. studies, I taught extensively across the Computer Science cirriculum. In particular, I taught on the following modules:
+During my Ph.D. studies, I taught extensively across the Computer Science curriculum. In particular, I taught on the following modules:
 
 - [CS126 - Design of Information Structures](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs126/) (Undergraduate, Year 1)
 - [CS132 - Computer Organisation and Architecture](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs132/) (Undergraduate, Year 1)
