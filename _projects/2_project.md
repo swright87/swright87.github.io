@@ -6,4 +6,3 @@ img: assets/img/profile_pic.jpg
 importance: 2
 category: work
 ---
-

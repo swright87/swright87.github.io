@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Steven
 middle_name: A.
 last_name: Wright
-contact_note: 
+contact_note:
 description:
 footer_text:
 keywords: Steven Wright, HPC, Performance Modelling, Performance Portability, Plasma Physics # add your own keywords or leave empty
@@ -179,7 +179,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 #newsletter:
 #  enabled: false
 #  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
-  # https://loops.so/docs/forms/custom-form
+# https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
 # Collections

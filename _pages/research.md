@@ -16,20 +16,20 @@ Broadly speaking, my research interests fall into three categories:
 
 #### Performance Analysis and Optimisation
 
-* Performance modelling of applications
-* Algorithmic optimisations of applications from the science and engineering domains
-* Evaluation of novel programming models and architectures
+- Performance modelling of applications
+- Algorithmic optimisations of applications from the science and engineering domains
+- Evaluation of novel programming models and architectures
 
 #### Parallel File Systems and I/O
 
-* Tracing and analysis of I/O in parallel applications
-* Optimisation of I/O operations on parallel file systems
-* Replication of sensitive I/O patterns in open environments
+- Tracing and analysis of I/O in parallel applications
+- Optimisation of I/O operations on parallel file systems
+- Replication of sensitive I/O patterns in open environments
 
 #### Energy-aware Computation
 
-* Analysis and modelling of energy consumption for parallel applications
-* Energy-aware optimisation of applications
+- Analysis and modelling of energy consumption for parallel applications
+- Energy-aware optimisation of applications
 
 ## PhD Opportunities
 
@@ -64,9 +64,11 @@ HPC has a vibrant research community, and if you'd like to be part of that commu
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+
+{%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+
+{% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}

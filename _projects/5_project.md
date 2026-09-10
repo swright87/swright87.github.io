@@ -6,4 +6,3 @@ img: assets/img/profile_pic.jpg
 importance: 3
 category: fun
 ---
-
