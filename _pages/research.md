@@ -42,7 +42,7 @@ A summary of the projects these interests have turned into is on the [projects p
 ### Current Ph.D. Students
 
 - [Matthew Smith](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=masmith) (started 2025) — performance, portability, and productivity of scientific computing applications; the [P3 Explorer]({{ '/projects/p3-analysis-library.html' | relative_url }}).
-- [Suryachandra Pasupuleti](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=spasup) (started 2024) — cache-aware energy modelling and the [Power-Optimised Software Envelope]({{ '/projects/pose.html' | relative_url }}).
+- [Suryachandra Pasupuleti](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=spasup) (started 2024) — energy-aware MLSys and SysML and the [Power-Optimised Software Envelope]({{ '/projects/pose.html' | relative_url }}).
 - [Zadok Storkey](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=zabelg) (started 2023) — [SYCL on FPGAs]({{ '/projects/fpga.html' | relative_url }}) for structured and unstructured scientific applications.
 - [Serdar Bulut](https://www.cs.york.ac.uk/people/?group=Research%20Students&username=sbulut) (started 2022, part-time) — optimising checkpoint write performance to parallel file systems using LSM-trees.
 
