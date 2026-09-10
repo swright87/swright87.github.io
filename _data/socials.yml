@@ -1,10 +1,10 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 email: steven.wright@york.ac.uk # your email address
-inspirehep_id:  # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+#inspirehep_id:  # Inspire HEP author ID
+#rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: uh1UaD4AAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-7133-8533  # your ORCID ID
 github_username: swright87
