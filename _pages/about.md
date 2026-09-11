@@ -15,7 +15,8 @@ profile:
     <p>YO10 5GH, UK</p>
     <p>Phone: +44 (0)1904 325583</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # the layout's own hard-coded "selected publications" heading;
+# off so the heading below can be written in the page body instead
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -36,3 +37,7 @@ Prior to joining York, I was a Research Fellow within the [High Performance and 
 I co-chair the [International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS)](https://pmbs-workshop.github.io), held annually at ACM/IEEE Supercomputing, and have edited its proceedings every year since 2013. I am also an author on the third edition of Pacheco's _An Introduction to Parallel Programming_ (Morgan Kaufmann), currently in production.
 
 At York I have taught across the degree programme, and I currently serve as the Chair of the Board of Examiners. I currently lead the [High-Performance Parallel and Distributed Systems (HIPC)](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) module, and previously led the [Software Testing (SOTE)](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00122M/latest/) module. While at Warwick, I led the [Programming for Computer Scientists (CS118)](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs118/) module.
+
+## Selected Publications
+
+{% include selected_papers.liquid %}
