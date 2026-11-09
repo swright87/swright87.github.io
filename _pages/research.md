@@ -49,7 +49,7 @@ A summary of the projects these interests have turned into is on the [projects p
 ### Postdoctoral and Visiting Researchers
 
 - Dr. Andrew Naden — Postdoctoral Research Assistant, 2023–2025.
-- [Giulio Malenza](https://alpha.di.unito.it/giulio-malenza/) — Visiting Student, University of Turin, 2025.
+- [Giulio Malenza](https://alpha.di.unito.it/team/giulio-malenza/) — Visiting Student, University of Turin, 2025.
 
 ## Ph.D. Opportunities
 
