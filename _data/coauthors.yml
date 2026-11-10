@@ -1,27 +1,75 @@
-"Jarvis":
+"jarvis":
   - firstname: ["S. A.", "Stephen A.", "Stephen"]
-    url: https://www.birmingham.ac.uk/staff/profiles/eps/jarvis-stephen.aspx
+    url: https://www.surrey.ac.uk/people/stephen-jarvis
 
-"Hammond":
+"hammond":
   - firstname: ["S. D.", "Simon D.", "Simon"]
-    url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?sdhammo
+    url: https://www.linkedin.com/in/si-hammond-5341385/
 
-"Fahmy":
+"fahmy":
   - firstname: ["S. A.", "Suhaib A.", "Suhaib"]
-    url: https://cemse.kaust.edu.sa/accl/people/person/suhaib-fahmy
+    url: https://www.kaust.edu.sa/en/study/faculty/suhaib-fahmy
 
-"Mudalige":
+"mudalige":
   - firstname: ["G. R.", "Gihan R.", "Gihan"]
     url: https://warwick.ac.uk/fac/sci/dcs/people/gihan_mudalige/
 
-"Reguly":
+"reguly":
   - firstname: ["I. Z.", "István Z.", "Istvan Z.", "Istvan", "István"]
-    url: https://itk.ppke.hu/en/about-our-faculty/our-lecturers-web-pages/reguly-istvan-zoltan-6870f
+    url: https://users.itk.ppke.hu/~regiszo/people.html
 
-"Pennycook":
+"pennycook":
   - firstname: ["S. J.", "Simon J.", "S. John", "Simon John", "John"]
     url: https://orcid.org/0000-0003-0237-3823
 
-"Bhalerao":
+"bhalerao":
   - firstname: ["A. H.", "Abhir B.", "Abhir"]
     url: https://warwick.ac.uk/fac/sci/dcs/people/abhir_bhalerao/
+
+"pacheco":
+  - firstname: ["Peter", "Peter S.", "P.", "P. S."]
+    url: https://www.usfca.edu/faculty/peter-pacheco
+
+"malenza":
+  - firstname: ["G.", "Giulio"]
+    url: https://alpha.di.unito.it/team/giulio-malenza/
+
+"smith":
+  - firstname: ["M. A.", "Matt A.", "Matthew A.", "Matthew"]
+    url: https://www.cs.york.ac.uk/people/?group=Research%20Students&username=masmith
+
+"pasupuleti":
+  - firstname: ["S. P.", "Suryachandra P.", "Suryachandra", "Suryachandra Prasad"]
+    url: https://www.cs.york.ac.uk/people/?group=Research%20Students&username=spasup
+
+"storkey":
+  - firstname: ["Z.", "Zoe", "Zadok"]
+    url: https://www.cs.york.ac.uk/people/?group=Research%20Students&username=zabelg
+
+"bulut":
+  - firstname: ["S.", "Serdar"]
+    url: https://www.cs.york.ac.uk/people/?group=Research%20Students&username=sbulut
+
+"malensek":
+  - firstname: ["Matthew"]
+    url: https://matthew.malensek.net
+  
+"ridgers":
+  - firstname: ["C.", "Chris", "Christopher", "Christopher P."]
+    url: https://www.york.ac.uk/physics-engineering-technology/people/ridgers/
+
+"goffrey":
+  - firstname: ["Thomas", "Tom", "T."]
+    url: https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/goffrey/
+
+"bennett":
+  - firstname: ["Keith"]
+    url: https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/bennett/
+
+"arber":
+  - firstname: ["Tony", "T. D.", "Tony D."]
+    url: https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/tda/
+
+"gray":
+  - firstname: ["Ian", "I."]
+    url: https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=iang

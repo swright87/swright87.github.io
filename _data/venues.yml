@@ -1,9 +1,189 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Keys must match a publication's `abbr` exactly. A matching entry turns the
+# abbreviation badge on the Publications page into a link to `url`.
+# Conferences and workshops carry the year ('YY); journals do not.
+# Badge colours: journals #2f7d5a (green), conferences/workshops #2b6cb0 (blue).
+# The site turns the apostrophe in a .bib `abbr` into a curly one (’), so keys
+# here must use ’ (e.g. "SC-W’26") even though the .bib file uses a plain '.
 
-"PhysRev":
-  url: https://journals.aps.org/
+# -----------------------------------------------------------------------------
+# Journals
+# -----------------------------------------------------------------------------
 
-"Vision":
-  color: "#009f36"
+"Access":
+  url: https://ieeeaccess.ieee.org
+  color: "#2f7d5a"
+
+"CC:PE":
+  url: https://onlinelibrary.wiley.com/journal/15320634
+  color: "#2f7d5a"
+
+"CiCP":
+  url: https://www.global-sci.com/cicp
+  color: "#2f7d5a"
+
+"Comput. J.":
+  url: https://academic.oup.com/comjnl
+  color: "#2f7d5a"
+
+"CPC":
+  url: https://www.sciencedirect.com/journal/computer-physics-communications
+  color: "#2f7d5a"
+
+"FGCS":
+  url: https://www.sciencedirect.com/journal/future-generation-computer-systems
+  color: "#2f7d5a"
+
+"JCP":
+  url: https://www.sciencedirect.com/journal/journal-of-computational-physics
+  color: "#2f7d5a"
+
+"JPDC":
+  url: https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing
+  color: "#2f7d5a"
+
+"TACO":
+  url: https://dl.acm.org/journal/taco
+  color: "#2f7d5a"
+
+# -----------------------------------------------------------------------------
+# Conferences and workshops
+# Where an edition's own website no longer exists, the link goes to its
+# published proceedings or to the series homepage instead.
+# No link found yet: CPPC’17, UKPEW’11, UKPEW’17, UKPEW’24, UKPEW’25.
+# -----------------------------------------------------------------------------
+
+"CLUSTER’17":
+  url: https://cluster17.github.io/
+  color: "#2b6cb0"
+
+"CLUSTER’18":
+  url: https://cluster2018.github.io/
+  color: "#2b6cb0"
+
+"CUG’17":
+  url: https://cug.org/cug-2017/
+  color: "#2b6cb0"
+
+"EPEW’11": # LNCS 6977 proceedings
+  url: https://link.springer.com/book/10.1007/978-3-642-24749-1
+  color: "#2b6cb0"
+
+"ExCALIBUR’22":
+  url: https://excalibur.ac.uk/events/programme-wide-summer-workshop/
+  color: "#2b6cb0"
+
+"FTXS’23":
+  url: https://sites.google.com/view/ftxs2023
+  color: "#2b6cb0"
+
+"HiPC’16": # series homepage; the 2016 site is offline
+  url: https://hipc.org
+  color: "#2b6cb0"
+
+"HiPC’26":
+  url: https://hipc.org
+  color: "#2b6cb0"
+
+"HPEC’21":
+  url: https://ieee-hpec.org/2021/
+  color: "#2b6cb0"
+
+"HPL’24": # CLF homepage; no page for this meeting
+  url: https://www.clf.stfc.ac.uk/
+  color: "#2b6cb0"
+
+"HPL’25": # CLF homepage; no page for this meeting
+  url: https://www.clf.stfc.ac.uk/
+  color: "#2b6cb0"
+
+"IAEA’23":
+  url: https://www.iaea.org/events/fec2023
+  color: "#2b6cb0"
+
+"ICPP’24": # icpp2024.org now redirects to the proceedings
+  url: https://dl.acm.org/doi/proceedings/10.1145/3673038
+  color: "#2b6cb0"
+
+"ICS’26":
+  url: https://dipsa-qub.github.io/ICS2026-webpage/
+  color: "#2b6cb0"
+
+"IGSC’15": # IEEE proceedings
+  url: https://www.computer.org/csdl/proceedings/igsc/2015/0172/00
+  color: "#2b6cb0"
+
+"IPDPSW’12":
+  url: https://www.ipdps.org/ipdps2012/
+  color: "#2b6cb0"
+
+"IPDPSW’15":
+  url: https://www.ipdps.org/ipdps2015/
+  color: "#2b6cb0"
+
+"ISC’17": # LNCS 10266 proceedings
+  url: https://link.springer.com/book/10.1007/978-3-319-58667-0
+  color: "#2b6cb0"
+
+"ISC’23": # LNCS 13999 workshop proceedings
+  url: https://link.springer.com/book/10.1007/978-3-031-40843-4
+  color: "#2b6cb0"
+
+"IWOCL’13": # series homepage; the 2013 site is offline
+  url: https://www.iwocl.org/
+  color: "#2b6cb0"
+
+"LLVM-HPC’18":
+  url: https://llvm-hpc5-workshop.github.io/
+  color: "#2b6cb0"
+
+"ModSim’19": # series homepage; the 2019 site is offline
+  url: https://www.bnl.gov/modsim/
+  color: "#2b6cb0"
+
+"PDP’18":
+  url: https://www.pdp2018.org/
+  color: "#2b6cb0"
+
+"PDP’25":
+  url: https://pdp2025.org/
+  color: "#2b6cb0"
+
+"PDSW-DISCS’16":
+  url: https://www.pdsw.org/pdsw-discs16/
+  color: "#2b6cb0"
+
+"PMBS’12":
+  url: https://www.dcs.warwick.ac.uk/pmbs/pmbs12/
+  color: "#2b6cb0"
+
+"PMBS’20":
+  url: https://www.dcs.warwick.ac.uk/pmbs/pmbs20/
+  color: "#2b6cb0"
+
+"SBAC-PAD’16":
+  url: https://www2.sbc.org.br/sbac/2016/
+  color: "#2b6cb0"
+
+"SC’15":
+  url: https://sc15.supercomputing.org/
+  color: "#2b6cb0"
+
+"SC’24":
+  url: https://sc24.supercomputing.org/
+  color: "#2b6cb0"
+
+"SC-W’25":
+  url: https://sc25.supercomputing.org/
+  color: "#2b6cb0"
+
+"SC-W’26":
+  url: https://sc26.supercomputing.org/
+  color: "#2b6cb0"
+
+"UKOpenMP’18": # OpenMP.org report on the conference
+  url: https://www.openmp.org/events/uk-openmp-users-conf-2018-report/
+  color: "#2b6cb0"
+
+"UKPEW’12": # LNCS 7587 proceedings
+  url: https://link.springer.com/book/10.1007/978-3-642-36781-6
+  color: "#2b6cb0"

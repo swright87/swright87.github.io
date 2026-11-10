@@ -4,7 +4,7 @@ permalink: /service/
 title: Service
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## PMBS
@@ -36,10 +36,12 @@ Guest editor for:
 
 ## Programme and Review Committees
 
-- ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018, 2024–2025)
-- Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS 2011–2025)
-- IEEE International Conference on Cluster Computing (Cluster 2025)
-- International European Conference on Parallel and Distributed Computing (Euro-Par 2025)
+- IEEE International Parallel & Distributed Processing Symposium (IPDPS 2027)
+- IEEE International Conference on High Performance Computing (HiPC 2026)
+- Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS 2011–2026)
+- ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018, 2024–2026)
+- IEEE International Conference on Cluster Computing (Cluster 2025-2026)
+- International European Conference on Parallel and Distributed Computing (Euro-Par 2025-2026)
 - Elsevier _Journal of Parallel and Distributed Computing_ (JPDC 2025)
 - Elsevier _Parallel Computing_ (ParCo 2025)
 - _IEEE Access_ (2025)

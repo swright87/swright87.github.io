@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 display_categories: [Plasma Physics, Performance Portability, Energy-Aware Computing]
 horizontal: false
 ---
