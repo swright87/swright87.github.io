@@ -17,9 +17,9 @@ The proceedings have appeared as Springer _Lecture Notes in Computer Science_ vo
 
 ## Organising Committees
 
-- **Workshop Chair** — International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), held with ACM/IEEE Supercomputing, 2013–2025
-- **Sponsorship Chair** — IEEE International Conference on Cluster Computing (Cluster 2025)
-- **Co-ordinator** — Centre for Computational Plasma Physics Symposium (CCPP 2015–2017)
+- **Workshop Chair** — [International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems](https://pmbs-workshop.github.io) (PMBS), held with ACM/IEEE Supercomputing, 2013–2025
+- **Sponsorship Chair** — [IEEE International Conference on Cluster Computing](https://clustercomp.org/2025/) (Cluster 2025)
+- **Co-ordinator** — [Centre for Computational Plasma Physics Symposium](https://warwick.ac.uk/fac/sci/ccpp/meetings/) (CCPP 2015–2017)
 - **Co-ordinator** — UK Manycore Developer Conference (UKMAC 2017)
 - **Steering Committee** — UK Performance Engineering Workshop (UKPEW 2012)
 
@@ -27,27 +27,27 @@ The proceedings have appeared as Springer _Lecture Notes in Computer Science_ vo
 
 Guest editor for:
 
-- _Parallel Computing_, Elsevier (2025)
-- _Concurrency and Computation: Practice and Experience_, vol. 34 (20)
-- _Future Generation Computer Systems_, vol. 92
-- IEEE Technical Consortium on High Performance Computing (TCHPC 2018–2021)
-- ACM/IEEE Special Interest Group on High Performance Computing (SIGHPC 2015, 2016)
-- _Lecture Notes in Computer Science_ (LNCS 8551, 8966, 10724)
+- [_Parallel Computing_](https://www.sciencedirect.com/journal/parallel-computing), Elsevier (2025)
+- [_Concurrency and Computation: Practice and Experience_](https://onlinelibrary.wiley.com/doi/10.1002/cpe.7165), vol. 34 (20)
+- [_Future Generation Computer Systems_](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18328590), vol. 92
+- [IEEE Technical Community on High Performance Computing](https://tc.computer.org/tchpc/) (TCHPC 2018–2021)
+- [ACM Special Interest Group on High Performance Computing](https://www.sighpc.org) (SIGHPC 2015, 2016)
+- _Lecture Notes in Computer Science_ (LNCS [8551](https://doi.org/10.1007/978-3-319-10214-6), [8966](https://doi.org/10.1007/978-3-319-17248-4), [10724](https://doi.org/10.1007/978-3-319-72971-8))
 
 ## Programme and Review Committees
 
-- IEEE International Parallel & Distributed Processing Symposium (IPDPS 2027)
-- IEEE International Conference on High Performance Computing (HiPC 2026)
-- Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS 2011–2026)
-- ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018, 2024–2026)
-- IEEE International Conference on Cluster Computing (Cluster 2025-2026)
-- International European Conference on Parallel and Distributed Computing (Euro-Par 2025-2026)
-- Elsevier _Journal of Parallel and Distributed Computing_ (JPDC 2025)
-- Elsevier _Parallel Computing_ (ParCo 2025)
-- _IEEE Access_ (2025)
-- ACM _Transactions on Storage_ (2017)
-- _IEEE Letters of the Computer Society_ (2019)
-- International Workshop on Modeling and Simulation of Parallel and Distributed Systems (MSPDS 2019)
+- [IEEE International Parallel & Distributed Processing Symposium](https://www.ipdps.org/ipdps2027/) (IPDPS 2027)
+- [IEEE International Conference on High Performance Computing](https://hipc.org) (HiPC 2026)
+- [Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems](https://pmbs-workshop.github.io) (PMBS 2011–2026)
+- [ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis](https://supercomputing.org) (SC 2018, 2024–2026)
+- [IEEE International Conference on Cluster Computing](https://clustercomp.org) (Cluster 2025-2026)
+- [International European Conference on Parallel and Distributed Computing](https://www.euro-par.org) (Euro-Par 2025-2026)
+- Elsevier [_Journal of Parallel and Distributed Computing_](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing) (JPDC 2025)
+- Elsevier [_Parallel Computing_](https://www.sciencedirect.com/journal/parallel-computing) (ParCo 2025)
+- [_IEEE Access_](https://ieeeaccess.ieee.org) (2025)
+- ACM [_Transactions on Storage_](https://dl.acm.org/journal/tos) (2017)
+- [_IEEE Letters of the Computer Society_](https://www.computer.org/csdl/journal/lc) (2019)
+- [International Workshop on Modeling and Simulation of Parallel and Distributed Systems](https://sites.google.com/a/cisedu.info/hpcs2019/2-conference/workshops/workshop19-mspds) (MSPDS 2019)
 - UK Performance Engineering Workshop (UKPEW 2012, 2017)
-- Special Session on High Performance Computing for Application Benchmarking and Optimization (HPBench 2016)
-- Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software (PLACES 2016)
+- [Special Session on High Performance Computing for Application Benchmarking and Optimization](https://sites.google.com/a/cisedu.info/hpcs2016/2-conference/special-sessions-hpcs2016) (HPBench 2016)
+- [Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software](https://doi.org/10.4204/EPTCS.211) (PLACES 2016)
